@@ -1,0 +1,4 @@
+--patch-module
+pt.ulisboa.tecnico.learnjava.bank=_
+--add-reads
+pt.ulisboa.tecnico.learnjava.bank=ALL-UNNAMED
