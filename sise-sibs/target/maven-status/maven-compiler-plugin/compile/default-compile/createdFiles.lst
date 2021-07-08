@@ -1,0 +1,11 @@
+pt\ulisboa\tecnico\learnjava\sibs\domain\Retry.class
+pt\ulisboa\tecnico\learnjava\sibs\mbway\MbWayView.class
+pt\ulisboa\tecnico\learnjava\sibs\mbway\InsuranceMBWayController.class
+pt\ulisboa\tecnico\learnjava\sibs\mbway\MbWay.class
+pt\ulisboa\tecnico\learnjava\sibs\domain\Error.class
+pt\ulisboa\tecnico\learnjava\sibs\mbway\ConfirmMBWayController.class
+pt\ulisboa\tecnico\learnjava\sibs\mbway\MbWayAccount$mbWayState.class
+pt\ulisboa\tecnico\learnjava\sibs\mbway\MbWayAccount.class
+pt\ulisboa\tecnico\learnjava\sibs\mbway\AssociateMBWayController.class
+pt\ulisboa\tecnico\learnjava\sibs\mbway\MVCPattern.class
+pt\ulisboa\tecnico\learnjava\sibs\mbway\TransferMBWayController.class
